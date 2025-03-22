@@ -1,0 +1,6 @@
+@MatrimonyAPI_HostAddress = http://localhost:5079
+
+GET {{MatrimonyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

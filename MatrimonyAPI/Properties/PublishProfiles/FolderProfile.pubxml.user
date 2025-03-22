@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\matrimony</_PublishTargetUrl>
+    <History>True|2024-12-07T16:41:52.2917811Z||;True|2024-12-07T21:31:37.9446443+05:30||;True|2024-12-07T21:02:08.1125363+05:30||;True|2024-12-07T20:49:04.0775255+05:30||;False|2024-12-07T20:48:30.8735459+05:30||;False|2024-12-07T20:47:45.4534265+05:30||;True|2024-12-07T20:12:57.5148395+05:30||;False|2024-12-07T20:11:49.7026892+05:30||;False|2024-12-07T20:10:41.5925664+05:30||;True|2024-12-07T16:00:57.3897152+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=DESKTOP-E97E4B5\SQLEXPRESS%3bDatabase=MatrimonyDB%3bUser ID=nadim%3bPassword=Salima%40786%3bEncrypt=True%3bTrustServerCertificate=True%3bMultipleActiveResultSets=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

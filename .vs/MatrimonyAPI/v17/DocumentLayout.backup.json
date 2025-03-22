@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Work_Drive\\Back proj\\Matrimony API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\controllers\\proposalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\controllers\\proposalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\repository\\implementations\\proposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\repository\\implementations\\proposalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\models\\proposals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\models\\proposals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\dto\\request\\proposalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\dto\\request\\proposalrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\repository\\implementations\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\repository\\implementations\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\repository\\interfaces\\iaccountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\repository\\interfaces\\iaccountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|e:\\work_drive\\back proj\\matrimony api\\matrimonyapi\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B559D806-B0F9-4F2C-B829-84A90194EF10}|MatrimonyAPI\\MatrimonyAPI.csproj|solutionrelative:matrimonyapi\\models\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProposalRepository.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Repository\\Implementations\\ProposalRepository.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Repository\\Implementations\\ProposalRepository.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Repository\\Implementations\\ProposalRepository.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Repository\\Implementations\\ProposalRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:25:17.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProposalRequest.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\DTO\\Request\\ProposalRequest.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\DTO\\Request\\ProposalRequest.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\DTO\\Request\\ProposalRequest.cs",
+              "RelativeToolTip": "MatrimonyAPI\\DTO\\Request\\ProposalRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:24:57.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAccountsRepository.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Repository\\Interfaces\\IAccountsRepository.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Repository\\Interfaces\\IAccountsRepository.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Repository\\Interfaces\\IAccountsRepository.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Repository\\Interfaces\\IAccountsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T04:01:00.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountsRepository.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Repository\\Implementations\\AccountsRepository.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Repository\\Implementations\\AccountsRepository.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Repository\\Implementations\\AccountsRepository.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Repository\\Implementations\\AccountsRepository.cs",
+              "ViewState": "AgIAAAkDAAAAAAAAAAAqwJcDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:42:48.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Program.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Program.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:37:22.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:34:40.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProposalController.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Controllers\\ProposalController.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Controllers\\ProposalController.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Controllers\\ProposalController.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Controllers\\ProposalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:34:37.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Models\\Accounts.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Models\\Accounts.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Models\\Accounts.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Models\\Accounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:31:19.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proposals.cs",
+              "DocumentMoniker": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Models\\Proposals.cs",
+              "RelativeDocumentMoniker": "MatrimonyAPI\\Models\\Proposals.cs",
+              "ToolTip": "E:\\Work_Drive\\Back proj\\Matrimony API\\MatrimonyAPI\\Models\\Proposals.cs",
+              "RelativeToolTip": "MatrimonyAPI\\Models\\Proposals.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:31:03.404Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
